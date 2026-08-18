@@ -1,4 +1,4 @@
-# 🌌 INICIALIZAÇÃO DO SISTEMA
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D0B1E,25:3A0CA3,50:4361EE,75:4CC9F0,100:7209B7&text=MAIZA%20GARCIA%20&fontColor=FFFFFF&fontSize=50&animation=fadeIn&fontAlignY=40&desc=%20%20TECH%20GIRL%20&descAlignY=60"/>
 
